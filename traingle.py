@@ -1,10 +1,9 @@
-a = int(input("Enter the first angle:"))
-b = int(input("Enter the second angle:"))
-c = int(input("Enter the third angle:"))
+first_angle = int(input("Enter the first angle:"))
+second_angle = int(input("Enter the second angle:"))
+third_angle = int(input("Enter the third angle:"))
 
-angle = a + b + c
-
-if (a>0 and b>0 and c>0) and (angle == 180):
+traingle = first_angle + second_angle + third_angle
+if (first_angle>0 and second_angle>0 and third_angle>0) and (traingle == 180):
     print("It is in traingle form")
 else:
     print("It is not in traingle form")
