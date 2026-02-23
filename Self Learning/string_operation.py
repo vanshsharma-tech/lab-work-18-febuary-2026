@@ -13,7 +13,7 @@ print("\nSlice (0:5):", text[0:5])
 print("Slice (6:):", text[6:])
 # 4️ String Length
 print("\nLength of string:", len(text))
-# 5️ Changing Case
+# 5️ Changing Case 
 print("\nUppercase:", text.upper())
 print("Lowercase:", text.lower())
 print("Title Case:", text.title())
@@ -21,7 +21,7 @@ print("Title Case:", text.title())
 spaced_text = "   Python Programming   "
 print("\nBefore strip():", spaced_text)
 print("After strip():", spaced_text.strip())
-# 7️ Replacing Text
+# 7️ Replacing Text world to python
 new_text = text.replace("World", "Python")
 print("\nAfter replace():", new_text)
 # 8️ Splitting String
@@ -37,7 +37,7 @@ print("\nIs 'Hello' in text?", "Hello" in text)
 print("\nIndex of 'World':", text.find("World"))
 # 1️2️ Count Occurrences
 print("\nCount of 'l':", text.count("l"))
-# 1️3️ Checking String Type
+# 1️3️ Checking String Type it return the condition is true or not
 num = "12345"
 print("\nIs numeric?", num.isnumeric())
 alpha = "Python"
