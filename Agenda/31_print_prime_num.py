@@ -8,7 +8,6 @@ if number < 0:
 
 # Create a is_prime_num to check the number is prime or not
 def is_prime_num(n):
-    count = 0
     for i in range(2, n):
         # Checks if the number is divided by any value between the 2 and number then returns the false
         if n % i == 0:
