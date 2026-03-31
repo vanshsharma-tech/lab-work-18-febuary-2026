@@ -1,0 +1,17 @@
+import numpy as np
+
+# Input array
+arr = np.array([1, 2, 3, 4, 5])
+
+# Mean
+mean = np.mean(arr)
+
+# Median
+median = np.median(arr)
+
+# Standard Deviation
+std_dev = np.std(arr)
+
+print("Mean:", mean)
+print("Median:", median)
+print("Standard Deviation:", std_dev)
