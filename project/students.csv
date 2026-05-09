@@ -1,0 +1,25 @@
+StudentID,Name,Gender,Course,Semester,Marks,Attendance,City,Result
+1001,Aarav Sharma,Male,BCA,1,78,89,Delhi,Pass
+1002,Riya Verma,Female,BCA,1,91,95,Noida,Pass
+1003,Karan Singh,Male,BCA,2,65,82,Agra,Pass
+1004,Priya Mehta,Female,BCA,2,88,91,Lucknow,Pass
+1005,Ankit Yadav,Male,BCA,3,45,70,Kanpur,Fail
+1006,Simran Kaur,Female,BCA,3,73,84,Chandigarh,Pass
+1007,Rohan Gupta,Male,BCA,4,69,80,Jaipur,Pass
+1008,Neha Jain,Female,BCA,4,94,97,Delhi,Pass
+1009,Vivek Mishra,Male,BCA,5,56,76,Meerut,Pass
+1010,Sneha Kapoor,Female,BCA,5,81,90,Gurgaon,Pass
+1011,Harsh Tyagi,Male,BCA,6,62,74,Faridabad,Pass
+1012,Pooja Singh,Female,BCA,6,85,92,Mathura,Pass
+1013,Arjun Rana,Male,MCA,1,77,88,Delhi,Pass
+1014,Kriti Sharma,Female,MCA,1,93,96,Noida,Pass
+1015,Rajat Malhotra,Male,MCA,2,58,72,Ghaziabad,Pass
+1016,Tanya Arora,Female,MCA,2,87,93,Delhi,Pass
+1017,Ayush Pandey,Male,MCA,3,49,68,Kanpur,Fail
+1018,Nidhi Chauhan,Female,MCA,3,79,86,Lucknow,Pass
+1019,Deepak Kumar,Male,MCA,4,66,79,Patna,Pass
+1020,Muskan Jain,Female,MCA,4,90,94,Jaipur,Pass
+1021,Sachin Rawat,Male,MCA,5,71,83,Dehradun,Pass
+1022,Payal Gupta,Female,MCA,5,84,91,Delhi,Pass
+1023,Rahul Saini,Male,MCA,6,39,60,Rohtak,Fail
+1024,Anjali Saxena,Female,MCA,6,96,98,Lucknow,Pass
